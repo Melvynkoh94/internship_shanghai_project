@@ -1,0 +1,51 @@
+﻿@model IEnumerable<VentureTest.MachineTest>
+
+@{
+    ViewBag.Title = "CheckList";
+}
+
+<h2>CheckList</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Lot)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MCFile)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MC)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NumTables)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Lot)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MCFile)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MC)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NumTables)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.id })
+        </td>
+    </tr>
+}
+
+</table>

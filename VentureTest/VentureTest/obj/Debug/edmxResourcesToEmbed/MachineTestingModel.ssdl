@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MelItemsModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="MachineTable">
+    <Key>
+      <PropertyRef Name="tableID" />
+    </Key>
+    <Property Name="tableID" Type="int" Nullable="false" />
+    <Property Name="TableNo" Type="int" />
+    <Property Name="NumAddr" Type="int" />
+    <Property Name="FeederMode" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="MachineTest">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" />
+    <Property Name="Lot" Type="varchar" MaxLength="50" />
+    <Property Name="MCFile" Type="varchar" MaxLength="50" />
+    <Property Name="MC" Type="varchar" MaxLength="50" />
+    <Property Name="NumTables" Type="int" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6013: The table/view 'MelItems.dbo.Sheet1$' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="Sheet1$">
+          <Property Name="Name" Type="nvarchar" MaxLength="255" />
+          <Property Name="Age" Type="float" />
+          <Property Name="School" Type="nvarchar" MaxLength="255" />
+          <Property Name="Gender" Type="nvarchar" MaxLength="255" />
+          <Property Name="National" Type="nvarchar" MaxLength="255" />
+        </EntityType>-->
+  <EntityContainer Name="MelItemsModelStoreContainer">
+    <EntitySet Name="MachineTable" EntityType="Self.MachineTable" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="MachineTest" EntityType="Self.MachineTest" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

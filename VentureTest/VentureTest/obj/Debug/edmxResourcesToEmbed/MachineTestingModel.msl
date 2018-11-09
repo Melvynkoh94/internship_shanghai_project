@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MelItemsModelStoreContainer" CdmEntityContainer="MelItemsEntities">
+    <EntitySetMapping Name="MachineTables">
+      <EntityTypeMapping TypeName="MelItemsModel.MachineTable">
+        <MappingFragment StoreEntitySet="MachineTable">
+          <ScalarProperty Name="tableID" ColumnName="tableID" />
+          <ScalarProperty Name="TableNo" ColumnName="TableNo" />
+          <ScalarProperty Name="NumAddr" ColumnName="NumAddr" />
+          <ScalarProperty Name="FeederMode" ColumnName="FeederMode" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MachineTests">
+      <EntityTypeMapping TypeName="MelItemsModel.MachineTest">
+        <MappingFragment StoreEntitySet="MachineTest">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Lot" ColumnName="Lot" />
+          <ScalarProperty Name="MCFile" ColumnName="MCFile" />
+          <ScalarProperty Name="MC" ColumnName="MC" />
+          <ScalarProperty Name="NumTables" ColumnName="NumTables" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

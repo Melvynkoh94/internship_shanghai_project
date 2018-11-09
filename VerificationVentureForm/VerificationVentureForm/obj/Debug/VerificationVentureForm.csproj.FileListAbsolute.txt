@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\VENTURE\VerificationVentureForm\VerificationVentureForm\bin\Debug\VerificationVentureForm.exe.config
+C:\Users\user\Desktop\VENTURE\VerificationVentureForm\VerificationVentureForm\bin\Debug\VerificationVentureForm.exe
+C:\Users\user\Desktop\VENTURE\VerificationVentureForm\VerificationVentureForm\bin\Debug\VerificationVentureForm.pdb
+C:\Users\user\Desktop\VENTURE\VerificationVentureForm\VerificationVentureForm\obj\Debug\VerificationVentureForm.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\VENTURE\VerificationVentureForm\VerificationVentureForm\obj\Debug\VerificationVentureForm.Form1.resources
+C:\Users\user\Desktop\VENTURE\VerificationVentureForm\VerificationVentureForm\obj\Debug\VerificationVentureForm.Properties.Resources.resources
+C:\Users\user\Desktop\VENTURE\VerificationVentureForm\VerificationVentureForm\obj\Debug\VerificationVentureForm.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\VENTURE\VerificationVentureForm\VerificationVentureForm\obj\Debug\VerificationVentureForm.exe
+C:\Users\user\Desktop\VENTURE\VerificationVentureForm\VerificationVentureForm\obj\Debug\VerificationVentureForm.pdb

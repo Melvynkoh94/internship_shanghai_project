@@ -1,0 +1,27 @@
+c:\users\user\documents\visual studio 2015\Projects\VentureWindowsForm\VentureWindowsForm\bin\Debug\VentureWindowsForm.exe.config
+C:\Users\user\Desktop\VENTURE\VentureWindowsForm\VentureWindowsForm\obj\Debug\VentureWindowsForm.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\VENTURE\VentureWindowsForm\VentureWindowsForm\obj\Debug\VentureWindowsForm.Form1.resources
+C:\Users\user\Desktop\VENTURE\VentureWindowsForm\VentureWindowsForm\obj\Debug\VentureWindowsForm.Properties.Resources.resources
+C:\Users\user\Desktop\VENTURE\VentureWindowsForm\VentureWindowsForm\obj\Debug\VentureWindowsForm.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\VENTURE\VentureWindowsForm\VentureWindowsForm\bin\Debug\VentureWindowsForm.exe.config
+C:\Users\user\Desktop\VENTURE\VentureWindowsForm\VentureWindowsForm\bin\Debug\VentureWindowsForm.exe
+C:\Users\user\Desktop\VENTURE\VentureWindowsForm\VentureWindowsForm\bin\Debug\VentureWindowsForm.pdb
+C:\Users\user\Desktop\VENTURE\VentureWindowsForm\VentureWindowsForm\bin\Debug\ExcelDataReader.dll
+C:\Users\user\Desktop\VENTURE\VentureWindowsForm\VentureWindowsForm\bin\Debug\ExcelDataReader.xml
+C:\Users\user\Desktop\VENTURE\VentureWindowsForm\VentureWindowsForm\obj\Debug\VentureWindowsForm.exe
+C:\Users\user\Desktop\VENTURE\VentureWindowsForm\VentureWindowsForm\obj\Debug\VentureWindowsForm.pdb
+C:\Users\user\Desktop\VENTURE\VentureWindowsForm\VentureWindowsForm\bin\Debug\VentureWindowsForm.exe.manifest
+C:\Users\user\Desktop\VENTURE\VentureWindowsForm\VentureWindowsForm\bin\Debug\VentureWindowsForm.application
+C:\Users\user\Desktop\VENTURE\VentureWindowsForm\VentureWindowsForm\obj\Debug\VentureWindowsForm.exe.manifest
+C:\Users\user\Desktop\VENTURE\VentureWindowsForm\VentureWindowsForm\obj\Debug\VentureWindowsForm.application
+C:\Users\user\Desktop\VENTURE\VentureWindowsForm\VentureWindowsForm\obj\Debug\VentureWindowsForm.TrustInfo.xml
+C:\Users\user\Desktop\VENTURE\VentureWindowsForm\VentureWindowsForm\obj\Debug\VentureWindowsForm.csprojResolveAssemblyReference.cache
+F:\DELL_INSPIRION13\VENTURE\Windows Form\VentureWindowsForm\VentureWindowsForm\obj\Debug\VentureWindowsForm.csprojAssemblyReference.cache
+F:\DELL_INSPIRION13\VENTURE\Windows Form\VentureWindowsForm\VentureWindowsForm\obj\Debug\VentureWindowsForm.csproj.ResolveComReference.cache
+F:\DELL_INSPIRION13\VENTURE\Windows Form\VentureWindowsForm\VentureWindowsForm\obj\Debug\VentureWindowsForm.Form1.resources
+F:\DELL_INSPIRION13\VENTURE\Windows Form\VentureWindowsForm\VentureWindowsForm\obj\Debug\VentureWindowsForm.Properties.Resources.resources
+F:\DELL_INSPIRION13\VENTURE\Windows Form\VentureWindowsForm\VentureWindowsForm\obj\Debug\VentureWindowsForm.csproj.GenerateResource.cache
+F:\DELL_INSPIRION13\VENTURE\Windows Form\VentureWindowsForm\VentureWindowsForm\obj\Debug\VentureWindowsForm.csproj.CoreCompileInputs.cache
+F:\DELL_INSPIRION13\VENTURE\Windows Form\VentureWindowsForm\VentureWindowsForm\obj\Debug\VentureWindowsForm.TrustInfo.xml
+F:\DELL_INSPIRION13\VENTURE\Windows Form\VentureWindowsForm\VentureWindowsForm\obj\Debug\VentureWindowsForm.exe
+F:\DELL_INSPIRION13\VENTURE\Windows Form\VentureWindowsForm\VentureWindowsForm\obj\Debug\VentureWindowsForm.pdb
